@@ -3,10 +3,10 @@
 ![Release Date](https://img.shields.io/github/release-date/codeantu/color-picker-extension?color=limegreen)
 ![Tag](https://img.shields.io/github/tag/codeantu/color-picker-extension?color=limegreen)
 
-![Color Picker](https://codeantu.github.io/color-picker/color-picker-extension/Images/logo.png)
+![Color Picker](https://codeantu.github.io/color-picker-extension/Images/logo.png)
 
 ![Dark Theme](https://codeantu.github.io/color-picker-extension/Images/dark.png)
-![Light Theme](https://codeantu.github.io/color-picker-extension/Images/dark.png)
+![Light Theme](https://codeantu.github.io/color-picker-extension/Images/light.png)
 
 ## Download
 
