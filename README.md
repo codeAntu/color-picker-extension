@@ -1,12 +1,11 @@
 # Color Picker Browser(chromium) Extension
 
-![Release Date](https://img.shields.io/github/release-date/codeabinash/color-picker?color=limegreen)
-![Tag](https://img.shields.io/github/tag/codeabinash/color-picker?color=limegreen)
+![Release Date](https://img.shields.io/github/release-date/codeantu/color-picker?color=limegreen)
+![Tag](https://img.shields.io/github/tag/codeantu/color-picker?color=limegreen)
 
-![Color Picker](https://codeabinash.github.io/color-picker/images/logo-l.jpg)
+![Color Picker](https://codeantu.github.io/color-picker/color-picker-extension/logo.png)
 
 ![Dark Theme](https://codeantu.github.io/color-picker-extension/Images/dark.png)
-
 ![Light Theme](https://codeantu.github.io/color-picker-extension/Images/dark.png)
 
 ## Download
